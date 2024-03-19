@@ -55,7 +55,7 @@ const Add = () => {
             id="name"
             name="name"
             autoComplete="off"
-            placeholder="Enter your Name:"
+            placeholder="Enter your Name"
           />
           <label htmlFor="email">Email:</label>
           <input
@@ -64,7 +64,7 @@ const Add = () => {
             id="email"
             name="email"
             autoComplete="off"
-            placeholder="Enter your Email:"
+            placeholder="Enter your Email"
           />
           <label htmlFor="address">Address:</label>
           <input
@@ -73,7 +73,7 @@ const Add = () => {
             id="address"
             name="address"
             autoComplete="off"
-            placeholder="Enter your Address:"
+            placeholder="Enter your Address"
           />
           <button type="submit" className="btn btn-primary">
             Submit
